@@ -1,0 +1,18 @@
+[
+   {
+   "exercicesname": "Full Body",
+   "time":21,
+   "exercices":10,
+   "link": "https://images.unsplash.com/photo-1603665409265-bdc00027c217?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhcmJlbGx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=60",
+   "hareket":[
+       {
+           "hareketadi":"push down",
+           "hareketsayisi":1,
+           "setsayisi":3,
+           "tekrar sayisi":5,
+           "videolink":"www.google.com"
+
+       }
+   ]
+   } 
+]
